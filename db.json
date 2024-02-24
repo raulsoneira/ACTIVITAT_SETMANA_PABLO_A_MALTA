@@ -1,0 +1,16 @@
+{
+  "weatherData": [
+    {
+      "id": "2",
+      "city": "Tona",
+      "temperature": 20,
+      "description": "Sunny"
+    },
+    {
+      "id": "4",
+      "city": "Paris",
+      "temperature": 18,
+      "description": "Rainy"
+    }
+  ]
+}
