@@ -107,7 +107,7 @@ async function modificarDadesMeteorologiques(id, novesDades) {
   try {
     // Realitza una sol·licitud PUT per actualitzar les dades meteorològiques amb l'ID especificat
     const res = await fetch(`http://localhost:3000/weatherData/${id}`, {
-      method: "PUT",
+      method: "PATCH",
       headers: {
         "Content-Type": "application/json",
       },

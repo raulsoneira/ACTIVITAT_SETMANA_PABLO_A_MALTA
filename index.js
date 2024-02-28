@@ -25,13 +25,13 @@ async function principal() {
     // const novesDadesMeteorologiques = await swapi.crearDadesMeteorologiques('Paris', 18, 'Plujós');
 
     // Actualitzar el nou conjunt de dades meteorològiques
-    // const dadesMeteorologiquesActualitzades = await swapi.modificarDadesMeteorologiques(2, {
+    // const dadesMeteorologiquesActualitzades = await swapi.modificarDadesMeteorologiques(4, {
     //   temperatura: 20,
     //   descripcio: 'Assolellat',
     // });
 
     // Eliminar el conjunt de dades meteorològiques actualitzat
-    // await swapi.eliminarDadesMeteorologiques("3");
+     //await swapi.eliminarDadesMeteorologiques("2");
 
   } catch (error) {
     console.error(error);

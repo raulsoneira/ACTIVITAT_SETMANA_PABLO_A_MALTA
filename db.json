@@ -1,16 +1,87 @@
 {
   "weatherData": [
     {
-      "id": "2",
-      "city": "Tona",
-      "temperature": 20,
-      "description": "Sunny"
+      "temperatura": 20,
+      "descripcio": "Assolellat",
+      "id": "4"
     },
     {
-      "id": "4",
-      "city": "Paris",
-      "temperature": 18,
-      "description": "Rainy"
+      "id": "6a83",
+      "ciutat": "Paris",
+      "temperatura": 18,
+      "descripcio": "Plujós"
+    },
+    {
+      "id": "66ba",
+      "ciutat": "Paris",
+      "temperatura": 18,
+      "descripcio": "Plujós"
+    },
+    {
+      "id": "a845",
+      "ciutat": "Paris",
+      "temperatura": 18,
+      "descripcio": "Plujós"
+    },
+    {
+      "id": "856d",
+      "ciutat": "Paris",
+      "temperatura": 18,
+      "descripcio": "Plujós"
+    },
+    {
+      "id": "7234",
+      "ciutat": "Paris",
+      "temperatura": 18,
+      "descripcio": "Plujós"
+    },
+    {
+      "id": "eb42",
+      "ciutat": "Paris",
+      "temperatura": 18,
+      "descripcio": "Plujós"
+    },
+    {
+      "id": "993c",
+      "ciutat": "Paris",
+      "temperatura": 18,
+      "descripcio": "Plujós"
+    },
+    {
+      "id": "b2f7",
+      "ciutat": "Paris",
+      "temperatura": 18,
+      "descripcio": "Plujós"
+    },
+    {
+      "id": "ca31",
+      "ciutat": "Paris",
+      "temperatura": 18,
+      "descripcio": "Plujós"
+    },
+    {
+      "id": "4b2b",
+      "ciutat": "Paris",
+      "temperatura": 18,
+      "descripcio": "Plujós"
+    },
+    {
+      "id": "536b",
+      "ciutat": "Paris",
+      "temperatura": 18,
+      "descripcio": "Plujós"
+    },
+    {
+      "id": "49e7",
+      "ciutat": "Paris",
+      "temperatura": 18,
+      "descripcio": "Plujós"
+    },
+    {
+      "id": "5ca3",
+      "ciutat": "Paris",
+      "temperatura": 18,
+      "descripcio": "Plujós"
     }
   ]
 }
